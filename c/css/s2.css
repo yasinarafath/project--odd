@@ -1,0 +1,860 @@
+.elementor-widget-heading .elementor-heading-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-image .widget-image-caption {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-text-editor {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-button .elementor-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-divider .elementor-divider__text {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-description {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-star-rating .elementor-star-rating__title {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-image-carousel .elementor-image-carousel-caption {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-image-gallery .gallery-item .gallery-caption {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-icon-list .elementor-icon-list-item {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-counter .elementor-counter-number-wrapper {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-counter .elementor-counter-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-progress .elementor-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-testimonial .elementor-testimonial-content {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-testimonial .elementor-testimonial-name {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-testimonial .elementor-testimonial-job {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-tabs .elementor-tab-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-tabs .elementor-tab-content {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-content {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-content {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-alert .elementor-alert-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-alert .elementor-alert-description {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-pp-advanced-menu .pp-menu-toggle .pp-menu-toggle-label {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-pp-advanced-menu .pp-advanced-menu-main-wrapper .pp-advanced-menu--dropdown,
+.elementor-widget-pp-advanced-menu .pp-advanced-menu--dropdown.pp-advanced-menu__container.pp-menu-open .sub-menu,
+.pp-advanced-menu--dropdown.pp-advanced-menu__container.pp-menu- {
+ {
+  ID
+ }
+}
+.sub-menu {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-advanced-tabs .pp-advanced-tabs-title .pp-advanced-tabs-title-text {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-advanced-tabs .pp-advanced-tabs-content {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-album .pp-album-cover-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-album .pp-album-trigger-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-business-hours .pp-business-hours .pp-business-day {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-business-hours .pp-business-hours .pp-business-timing {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-buttons .pp-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-buttons .pp-button-icon-number {
+ font-family:"Lato",Sans-serif
+}
+.pp-tooltip- {
+ {
+  ID
+ }
+}
+ {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-pp-categories .pp-category-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-categories .pp-category-count {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-categories .pp-category-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-categories .swiper-pagination-fraction {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-countdown .pp-countdown-wrapper .pp-countdown-item .pp-countdown-digit {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-pp-countdown .pp-countdown-wrapper .pp-countdown-item .pp-countdown-label {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-pp-countdown .pp-countdown-wrapper .pp-countdown-expire-message {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-pp-coupons .pp-coupon-discount {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-coupons .pp-coupon-code {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-coupons .pp-coupon-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-coupons .pp-coupon-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-coupons .pp-coupon-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-coupons .swiper-pagination-fraction {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-divider .pp-divider-text {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-flipbox .pp-flipbox-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-fancy-heading .pp-heading-text {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-pp-dual-heading .pp-first-text {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-dual-heading .pp-second-text {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-image-gallery .pp-gallery-load-more {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-google-maps .gm-style .pp-infowindow-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.pp-tooltip.pp-tooltip- {
+ {
+  ID
+ }
+}
+ {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-icon-list .pp-icon-list-text {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-image-accordion .pp-image-accordion-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-image-comparison .twentytwenty-before-label:before,
+.elementor-widget-pp-image-comparison .twentytwenty-after-label:before {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-box .pp-info-box-icon {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-box .pp-info-box-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-box .pp-info-box-subtitle {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-box .pp-info-box-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-box .pp-info-box-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-box-carousel .pp-info-box-icon {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-box-carousel .pp-info-box-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-box-carousel .pp-info-box-subtitle {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-box-carousel .pp-info-box-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-box-carousel .pp-info-box-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-box-carousel .swiper-pagination-fraction {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-list .pp-list-items .pp-info-list-number {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-list .pp-info-list-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-list .pp-info-list-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-list .pp-info-list-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-table .pp-info-table-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-table .pp-info-table-subtitle {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-table .pp-info-table-icon {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-table .pp-info-table-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-table .pp-info-table-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-info-table .pp-info-table-sale-badge {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-instafeed .pp-instagram-feed-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-instafeed .swiper-pagination-fraction {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-instafeed .pp-load-more-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pa-link-effects a.pp-link {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-logo-carousel .pp-logo-carousel-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-logo-carousel .swiper-pagination-fraction {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-logo-grid .pp-logo-grid-title {
+ font-family:"Lato",Sans-serif
+}
+.pp-modal-popup-window- {
+ {
+  ID
+ }
+}
+.pp-popup-header .pp-popup-title {
+ font-family:"Lato",Sans-serif
+}
+.pp-modal-popup-window- {
+ {
+  ID
+ }
+}
+.pp-popup-content {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-modal-popup .pp-modal-popup-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-ninja-forms .pp-ninja-form .pp-contact-form-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-ninja-forms .pp-ninja-form .submit-container input[type=button] {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-ninja-forms .pp-ninja-form .nf-form-fields-required {
+ font-family:"Lato",Sans-serif
+}
+.pp-offcanvas-content- {
+ {
+  ID
+ }
+}
+.pp-offcanvas-body a {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-offcanvas-content .pp-offcanvas-toggle {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-one-page-nav .pp-nav-dot-tooltip {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-card-slider .pp-card-slider-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-magazine-slider .pp-tiled-post-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-magazine-slider .pp-tiled-post-featured .pp-tiled-post-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-magazine-slider .pp-post-categories {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-magazine-slider .pp-tiled-post-featured .pp-post-categories {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-magazine-slider .pp-tiled-posts-meta {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-magazine-slider .pp-tiled-post-featured .pp-tiled-posts-meta {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-magazine-slider .pp-tiled-post-excerpt {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-magazine-slider .pp-tiled-post-featured .pp-tiled-post-excerpt {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-tiled-posts .pp-tiled-post-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-tiled-posts .pp-post-categories {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-tiled-posts .pp-tiled-posts-meta {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-tiled-posts .pp-tiled-post-excerpt {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-posts .pp-posts-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-posts .pp-posts-pagination .page-numbers,
+.elementor-widget-pp-posts .pp-posts-pagination a {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-pp-timeline .pp-timeline-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-price-menu .pp-restaurant-menu .pp-restaurant-menu-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-price-menu .pp-restaurant-menu .pp-restaurant-menu-price-discount {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-price-menu .pp-restaurant-menu .pp-restaurant-menu-price-original {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-price-menu .pp-restaurant-menu-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-pricing-table .pp-pricing-table-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-pricing-table .pp-pricing-table-subtitle {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-pricing-table .pp-pricing-table-price {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-pricing-table .pp-pricing-table-features {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-pricing-table .pp-pricing-table-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-pricing-table .pp-pricing-table-additional-info {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-recipe .pp-recipe-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-recipe .pp-recipe-meta {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-recipe .pp-recipe-detail-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-recipe .pp-recipe-detail-value {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-recipe .pp-recipe-ingredients-heading {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-recipe .pp-recipe-ingredients-list {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-recipe .pp-recipe-instructions-heading {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-recipe .pp-recipe-instructions-list {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-recipe .pp-recipe-notes-heading {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-recipe .pp-recipe-notes-content {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-review-box .pp-review-box-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-review-box .pp-review-feature .pp-review-feature-text {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-review-box .pp-review-final-rating-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-review-box .pp-review-final-rating {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-review-box .pp-review-summary-title {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-review-box .pp-review-summary-content {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-team-member .pp-tm-position {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-team-member .pp-tm-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-team-member-carousel .pp-tm-name {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-team-member-carousel .pp-tm-position {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-team-member-carousel .pp-tm-description {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-team-member-carousel .swiper-pagination-fraction {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-toggle .pp-primary-toggle-label {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-toggle .pp-secondary-toggle-label {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-toggle .pp-toggle-content-wrap {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-table .pp-table thead th.pp-table-cell {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-table .pp-table tr .pp-table-cell {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-pp-table .pp-table tfoot td.pp-table-cell {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-theme-site-logo .widget-image-caption {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-theme-site-title .elementor-heading-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-theme-page-title .elementor-heading-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-theme-post-title .elementor-heading-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-theme-post-excerpt .elementor-widget-container {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-theme-post-content {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-theme-post-featured-image .widget-image-caption {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-theme-archive-title .elementor-heading-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-archive-posts .elementor-post__title,
+.elementor-widget-archive-posts .elementor-post__title a {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-archive-posts .elementor-post__meta-data {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-archive-posts .elementor-post__excerpt p {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-archive-posts .elementor-post__read-more {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-archive-posts .elementor-post__card .elementor-post__badge {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-archive-posts .elementor-pagination {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-archive-posts .elementor-posts-nothing-found {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-posts .elementor-post__title,
+.elementor-widget-posts .elementor-post__title a {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-posts .elementor-post__meta-data {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-posts .elementor-post__excerpt p {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-posts .elementor-post__read-more {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-posts .elementor-post__card .elementor-post__badge {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-posts .elementor-pagination {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-portfolio .elementor-portfolio-item__title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-portfolio .elementor-portfolio__filter {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-gallery .elementor-gallery-item__title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-gallery .elementor-gallery-item__description {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-gallery .elementor-gallery-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-form .elementor-field-group>label {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-form .elementor-field-type-html {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-form .elementor-field-group .elementor-field,
+.elementor-widget-form .elementor-field-subgroup label {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-form .elementor-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-form .elementor-message {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-login .elementor-form-fields-wrapper label {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-login .elementor-field-group .elementor-field,
+.elementor-widget-login .elementor-field-subgroup label {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-login .elementor-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-login .elementor-widget-container .elementor-login__logged-in-message {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-slides .elementor-slide-heading {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-slides .elementor-slide-description {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-slides .elementor-slide-button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-nav-menu .elementor-nav-menu .elementor-item {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item,
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-sub-item {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-animated-headline .elementor-headline {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-animated-headline .elementor-headline-dynamic-text {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-price-list .elementor-price-list-header {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-price-list .elementor-price-list-description {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-price-table .elementor-price-table__heading {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-price-table .elementor-price-table__subheading {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-price-table .elementor-price-table__price {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-price-table .elementor-price-table__original-price {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-price-table .elementor-price-table__period {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-price-table .elementor-price-table__features-list li {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-price-table .elementor-price-table__button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-price-table .elementor-price-table__additional_info {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-price-table .elementor-price-table__ribbon-inner {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__description {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__description {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-flip-box .elementor-flip-box__button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-call-to-action .elementor-cta__title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-call-to-action .elementor-cta__description {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-call-to-action .elementor-cta__button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-call-to-action .elementor-ribbon-inner {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-media-carousel .elementor-carousel-image-overlay {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-testimonial-carousel .elementor-testimonial__text {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-testimonial-carousel .elementor-testimonial__name {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-testimonial-carousel .elementor-testimonial__title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-reviews .elementor-testimonial__header,
+.elementor-widget-reviews .elementor-testimonial__name {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-reviews .elementor-testimonial__text {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-table-of-contents .elementor-toc__header,
+.elementor-widget-table-of-contents .elementor-toc__header-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-table-of-contents .elementor-toc__list-item {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-countdown .elementor-countdown-digits {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-countdown .elementor-countdown-label {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-countdown .elementor-countdown-expire--message {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-search-form input[type=search].elementor-search-form__input {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-search-form .elementor-search-form__submit {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-author-box .elementor-author-box__name {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-author-box .elementor-author-box__bio {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-author-box .elementor-author-box__button {
+ font-family:"Lato",Sans-serif
+}
+.elementor-widget-post-navigation span.post-navigation__prev--label,
+.elementor-widget-post-navigation span.post-navigation__next--label {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-post-navigation span.post-navigation__prev--title,
+.elementor-widget-post-navigation span.post-navigation__next--title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-post-info .elementor-icon-list-item {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-sitemap .elementor-sitemap-title {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-widget-sitemap .elementor-sitemap-item,
+.elementor-widget-sitemap span.elementor-sitemap-list,
+.elementor-widget-sitemap .elementor-sitemap-item a {
+ font-family:"Lato",Sans-serif;
+ font-weight:400
+}
+.elementor-widget-breadcrumbs {
+ font-family:"Lato",Sans-serif;
+ font-weight:700
+}
+.elementor-section.elementor-section-boxed>.elementor-container {
+ max-width:1200px
+}

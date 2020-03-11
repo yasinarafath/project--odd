@@ -1,0 +1,84 @@
+.elementor-16204 .elementor-element.elementor-element-3e0f8db9>.elementor-container {
+ max-width:1200px
+}
+.elementor-16204 .elementor-element.elementor-element-3e0f8db9 {
+ padding:50px 0 30px
+}
+.elementor-16204 .elementor-element.elementor-element-c18b7e9 .pp-video-gallery-overlay {
+ mix-blend-mode:normal
+}
+.elementor-16204 .elementor-element.elementor-element-c18b7e9 .pp-video-play-icon {
+ font-size:120px;
+ line-height:120px;
+ width:120px;
+ color:#fff;
+ text-shadow:0px 0px 10px #000
+}
+.elementor-16204 .elementor-element.elementor-element-c18b7e9 .pp-video-play-icon svg {
+ fill:#fff
+}
+.elementor-16204 .elementor-element.elementor-element-c18b7e9>.elementor-widget-container {
+ border-style:solid;
+ border-color:#fff
+}
+#elementor-popup-modal-16204 .dialog-message {
+ width:1200px;
+ height:auto
+}
+#elementor-popup-modal-16204 {
+ justify-content:center;
+ align-items:center;
+ pointer-events:all;
+ background-color:rgba(0,0,0,.9)
+}
+#elementor-popup-modal-16204 .dialog-close-button {
+ display:block;
+ background-color:rgba(255,255,255,.7);
+ font-size:24px
+}
+#elementor-popup-modal-16204 .dialog-widget-content {
+ animation-duration:1.2s;
+ border-radius:30px;
+ box-shadow:2px 2px 40px 1px rgba(0,0,0,.09);
+ margin:80px 0 0
+}
+#elementor-popup-modal-16204 .dialog-close-button i {
+ color:rgba(0,0,0,.7)
+}
+#elementor-popup-modal-16204 .dialog-close-button:hover i {
+ color:#ff0798
+}
+@media(max-width:1024px) {
+ #elementor-popup-modal-16204 .dialog-message {
+  width:90vw
+ }
+ #elementor-popup-modal-16204 .dialog-widget-content {
+  margin:80px 0 0
+ }
+}
+@media(max-width:767px) {
+ .elementor-16204 .elementor-element.elementor-element-3e0f8db9 {
+  padding:0 16px
+ }
+ #elementor-popup-modal-16204 .dialog-message {
+  width:100vw;
+  padding:0
+ }
+ #elementor-popup-modal-16204 {
+  justify-content:center;
+  align-items:center
+ }
+ #elementor-popup-modal-16204 .dialog-widget-content {
+  border-radius:0;
+  margin:80px 0 0
+ }
+ #elementor-popup-modal-16204 .dialog-close-button {
+  top:0
+ }
+ body:not(.rtl) #elementor-popup-modal-16204 .dialog-close-button {
+  right:0
+ }
+ body.rtl #elementor-popup-modal-16204 .dialog-close-button {
+  left:0
+ }
+}
